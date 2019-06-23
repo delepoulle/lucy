@@ -1,0 +1,9 @@
+name: LucyPlugin
+version: 0.1
+author: Manwald & LinkClement
+main: fr.manwald.lucy.Main
+description: Le plugin qui te donne des free diamants
+commands:
+   diamonds:
+      description: Te donnes un free diamant
+      usage: /diamonds
